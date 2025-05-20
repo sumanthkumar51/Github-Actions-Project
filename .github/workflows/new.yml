@@ -118,6 +118,5 @@ jobs:
       with:
         context: .
         push: true
-        tags: sumant51/loki:mydockerimage
+        tags: adijaiswal/bankapp:latest
         file: ./Dockerfile
-        
