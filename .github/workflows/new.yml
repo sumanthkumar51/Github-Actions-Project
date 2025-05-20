@@ -120,3 +120,4 @@ jobs:
         push: true
         tags: adijaiswal/bankapp:latest
         file: ./Dockerfile
+        
